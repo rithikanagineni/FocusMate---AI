@@ -1,0 +1,9 @@
+{
+  "name": "FocusMate",
+  "description": "Your AI Productivity Companion. Turn unstructured messages, screenshots, voice notes, and documents into actionable tasks, smart priorities, realistic schedules, and focus sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
